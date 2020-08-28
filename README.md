@@ -7,7 +7,7 @@ The Android application written in Java sends touch data to the host machine ove
 
 ## Demo
 
-View a demo of the project below!
+Click the thumbnail below to view a demo of the project!
 
 [![Phone Mouse Demo](https://i.vimeocdn.com/video/889846742.webp)](https://vimeo.com/416122456)
 
