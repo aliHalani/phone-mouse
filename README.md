@@ -2,7 +2,7 @@
 
 Turn your Android phone into a mouse (for a Windows system)!
 
-The Android application written in Java sends touch data to the host machine over UDP which is received by a program written in Python 3.
+The Android application written in Java sends touch data to the host machine over UDP to a program written in Python which then translates the data into mouse actions. 
 
 
 ## Demo
